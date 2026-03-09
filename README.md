@@ -25,7 +25,7 @@
 
 ER図
 
-![ER図](docs/db_er.svg)
+![ER図](docs/db_er.png)
 
 # API一覧
 
